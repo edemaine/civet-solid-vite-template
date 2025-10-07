@@ -12,13 +12,13 @@
   "author": "Erik Demaine",
   "license": "MIT",
   "description": "",
-  "packageManager": "pnpm@9.12.3+sha512.cce0f9de9c5a7c95bef944169cc5dfe8741abfb145078c0d508b868056848a87c81e626246cb60967cbd7fd29a6c062ef73ff840d96b3c86c40ac92cf4a813ee",
+  "packageManager": "pnpm@10.18.1+sha512.77a884a165cbba2d8d1c19e3b4880eee6d2fcabd0d879121e282196b80042351d5eb3ca0935fa599da1dc51265cc68816ad2bddd2a2de5ea9fdf92adbec7cd34",
   "dependencies": {},
   "devDependencies": {
-    "@danielx/civet": "0.10.0",
+    "@danielx/civet": "0.10.7",
     "sass-embedded": "^1.80.6",
     "solid-js": "^1.9.3",
-    "vite": "^6.2.2",
-    "vite-plugin-solid": "2.11.6"
+    "vite": "^7.1.9",
+    "vite-plugin-solid": "2.11.9"
   }
 }
