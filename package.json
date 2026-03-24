@@ -17,6 +17,7 @@
     "@danielx/civet": "0.11.5",
     "sass-embedded": "^1.98.0",
     "solid-js": "^1.9.11",
+    "typescript": "^6.0.2",
     "vite": "^8.0.1",
     "vite-plugin-solid": "2.11.11"
   }
